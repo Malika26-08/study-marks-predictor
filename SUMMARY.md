@@ -242,10 +242,18 @@ Everything is prepared. Just:
 
 ---
 
-## 🎉 THAT'S IT!
+## 🎉 YOU'RE LIVE!
 
-Your app is **production-ready**, **recruitment-friendly**, and **ready to deploy**.
+Your app is **deployed**, **live**, and **recruitment-ready**!
+
+**Share these URLs:**
+
+🌐 **Live App:** https://malika26-08-study-marks-predictor.streamlit.app
+
+🔗 **GitHub:** https://github.com/Malika26-08/study-marks-predictor
+
+---
 
 Go get those stars on GitHub! ⭐
 
-**Good luck! 🚀**
+**Now share it everywhere!** 🚀

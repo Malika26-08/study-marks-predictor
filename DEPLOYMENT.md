@@ -54,16 +54,12 @@ git commit -m "Initial commit: AI Study Planner Dashboard - marks prediction, sc
 
 ## 🔐 Step 2: Create GitHub Repository
 
-1. **Go to GitHub:** https://github.com/new
-2. **Fill in repository details:**
+2. **GitHub Repository:** https://github.com/Malika26-08/study-marks-predictor
    - **Repository name:** `study-marks-predictor`
+   - **Visibility:** Public (for portfolio/recruiters)
    - **Description:** "AI-powered study planner and exam marks prediction dashboard with schedule management and analytics"
-   - **Visibility:** Public (for portfolio/recruiters) or Private (for personal use)
-   - **Initialize with:** Leave unchecked (we already have local commits)
 
-3. **Click "Create repository"**
-
-4. **Copy the HTTPS URL** (looks like: `https://github.com/yourusername/study-marks-predictor.git`)
+3. **Repository URL:** `https://github.com/Malika26-08/study-marks-predictor.git`
 
 ---
 

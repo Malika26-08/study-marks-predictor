@@ -2,7 +2,7 @@
 
 > **AI-powered study planner and marks prediction dashboard** — Predict your exam marks, manage study schedules, track daily progress, and get personalized study recommendations using machine learning.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://study-marks-predictor.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://malika26-08-study-marks-predictor.streamlit.app)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -140,18 +140,18 @@ study-marks-predictor/
 
 ### Deploy to Streamlit Cloud (Recommended)
 
-**See [DEPLOYMENT.md](DEPLOYMENT.md) for complete step-by-step guide**, including:
+**🎉 Your app is now LIVE!**
+
+**Live App:** https://malika26-08-study-marks-predictor.streamlit.app
+
+**GitHub Repository:** https://github.com/Malika26-08/study-marks-predictor
+
+**See [DEPLOYMENT.md](DEPLOYMENT.md) for complete deployment guide**, including:
 - Setting up a GitHub repository
 - Pushing code to GitHub
 - Deploying to Streamlit Cloud
 - Troubleshooting common issues
 - Portfolio integration
-
-**Quick version:**
-1. Push to GitHub: `git push origin main`
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud)
-3. Click "New app" → Select your repository
-4. App live at: `https://your-username-study-marks-predictor.streamlit.app`
 
 ### Deploy to Other Platforms
 
@@ -217,15 +217,13 @@ You are free to use, modify, and distribute this project with proper attribution
 
 ---
 
-## 🚀 Ready to Deploy?
+## ✅ Deployed & Live!
 
-**Complete deployment guide:** See [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md)
+**Live Application:** https://malika26-08-study-marks-predictor.streamlit.app
 
-Quick summary:
-1. `git init` + push to GitHub (3 commands)
-2. Sign in to Streamlit Cloud with GitHub
-3. Deploy in one click
-4. Share your live app!
+**GitHub Repository:** https://github.com/Malika26-08/study-marks-predictor
+
+**For deployment details:** See [DEPLOYMENT.md](DEPLOYMENT.md) and [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md)
 
 ---
 
