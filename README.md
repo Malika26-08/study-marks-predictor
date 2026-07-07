@@ -243,8 +243,7 @@ You are free to use, modify, and distribute this project with proper attribution
 ## 📞 Support & Contact
 
 - **Issues:** Open a GitHub issue for bugs or feature requests
-- **Email:** your-email@example.com
-- **Twitter:** [@yourhandle](https://twitter.com)
+- **Email:** harmaienmalika@gmail.com
 
 ---
 
