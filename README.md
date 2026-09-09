@@ -11,10 +11,7 @@
 ## 🌐 Live Demo
 
 🚀 **Live Application**  
-https://malika26-08-study-marks-predictor.streamlit.app
-
-💻 **GitHub Repository**  
-https://github.com/Malika26-08/study-marks-predictor
+https://study-marks-predictor.streamlit.app/
 
 ---
 
@@ -296,7 +293,7 @@ Feel free to use, modify, and distribute it with proper attribution.
 
 🐙 GitHub: https://github.com/Malika26-08
 
-🌐 Live App: https://malika26-08-study-marks-predictor.streamlit.app
+🌐 Live App: https://study-marks-predictor.streamlit.app/
 
 ---
 
